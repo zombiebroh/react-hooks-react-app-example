@@ -12,7 +12,9 @@ function TestComponent() {
         allow="autoplay; encrypted-media"
         title="time video"
         allowFullScreen
-      ></iframe>
+      >
+        
+      </iframe>
     </div>
   );
 }

@@ -12,5 +12,6 @@ function ExampleComponent() {
     </div>
   );
 }
+export const greeting = 'hi from Example Component'
 
 export default ExampleComponent;
